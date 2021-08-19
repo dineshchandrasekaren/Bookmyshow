@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-prev{
+    left: 0 !important;
+    filter: invert(100%) grayscale(100%);
+    z-index: 2;
+}
+.slick-next{
+    right: 0 !important;
+    filter:grayscale(100%) invert(100%) ;
+    z-index: 2;
+}
