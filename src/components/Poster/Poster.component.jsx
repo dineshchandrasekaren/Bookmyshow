@@ -3,7 +3,7 @@ import {Subtitle} from "../typography/Subtitle.typography";
 const Poster = (props) => (
   <>
   <div className={`flex flex-col ${props.isDark ? "text-white":"text-gray"} gap-3 px-3`}>
-      <div className="h-auto  ">
+      <div className="h-auto  cursor-pointer ">
           <img className="w-full h-full rounded-xl" src={props.src} alt={props.title}/>
       </div>
       <div>

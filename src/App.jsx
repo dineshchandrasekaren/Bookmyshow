@@ -10,12 +10,15 @@ import "slick-carousel/slick/slick-theme.css";
 
 // Components
 import { HomePage } from "./Pages/HomePage.pages";
+import MovieHOC from "./HOC/Movie.HOC";
+import MoviePage from "./Pages/MoviePage.pages";
 
 
 function App() {
   return (
     <>
       <DefaultHOC path="/" exact component={HomePage} />
+        <MovieHOC path="/movie/:id" exact component={MoviePage}/>
     </>
   );
 }

@@ -6,8 +6,10 @@ import HeroCarousel from "../components/HeroCarousel/HeroCarousel.component";
 const DefaultLayout = (props) => {
     return (
       <>
-        <NavBar />
-        <HeroCarousel/>
+          <header>
+              <NavBar />
+              <HeroCarousel/>
+          </header>
         {props.children}
       </>
     );

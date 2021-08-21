@@ -10,15 +10,15 @@ export const settings={
             breakpoint: 1024,
             settings: {
                 slidesToScroll:3,
-                slidesToShow: 2,
+                slidesToShow: 4,
                 infinite:true
             }
         },
         {
             breakpoint: 800,
             settings: {
-                slidesToScroll:3,
-                slidesToShow: 2,
+                slidesToScroll:4,
+                slidesToShow: 3,
                 infinite:true
             }
         },
@@ -26,7 +26,7 @@ export const settings={
             breakpoint: 480,
             settings: {
                 slidesToScroll:3,
-                slidesToShow: 2,
+                slidesToShow: 3,
                 infinite:true
             }
         }

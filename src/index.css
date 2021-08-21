@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    @apply transition;
+}
+
 .slick-prev{
     left: 0 !important;
     filter: invert(100%) grayscale(100%);
