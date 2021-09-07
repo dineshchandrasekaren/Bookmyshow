@@ -1,6 +1,7 @@
 import React, {useContext} from "react";
 import { BiChevronLeft,BiShare, BiSearch, BiMenu } from "react-icons/bi";
 import { VscTriangleDown } from "react-icons/vsc";
+import { Link } from "react-router-dom";
 import {MovieContext} from "../../context/Movie.context";
 
 
@@ -8,8 +9,10 @@ const Navsm = () => {
 const {movie}=useContext(MovieContext);
 
    return (<div className="flex items-center justify-between text-white">
-        <div className="flex items-center gap-2 text-2xl font-bold">
+       <div className="flex items-center gap-2 text-2xl font-bold">
+           <Link to={'/'}>
             <BiChevronLeft className="cursor-pointer"/>
+            </Link>
             <h3 className="text-xl">{movie.original_title}</h3>
         </div>
         <div className="text-2xl cursor-pointer">
