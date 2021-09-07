@@ -1,18 +1,22 @@
-import React from "react";
+import React, {useContext} from "react";
 import { BiChevronLeft,BiShare, BiSearch, BiMenu } from "react-icons/bi";
 import { VscTriangleDown } from "react-icons/vsc";
+import {MovieContext} from "../../context/Movie.context";
 
-const Navsm = () => (
-    <div className="flex items-center justify-between text-white">
+
+const Navsm = () => {
+const {movie}=useContext(MovieContext);
+
+   return (<div className="flex items-center justify-between text-white">
         <div className="flex items-center gap-2 text-2xl font-bold">
             <BiChevronLeft className="cursor-pointer"/>
-            <h3 className="text-xl">It All Started Here!</h3>
+            <h3 className="text-xl">{movie.original_title}</h3>
         </div>
         <div className="text-2xl cursor-pointer">
             <BiShare />
         </div>
     </div>
-);
+)};
 
 const Navlg = () => (
     <>

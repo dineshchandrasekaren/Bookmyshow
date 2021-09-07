@@ -8,13 +8,13 @@ export const CarousalContents = (props) => {
   return(
       <><section className={`${props.isDark?"my-auto":"my-14"}`}>
           <div className="flex items-center justify-between gap-2 px-12">
-              <div className={`${props.isDark?"text-white":"text-grey"} `} >
+              <div className={`${props.isDark?"text-white":"text-gray"} `} >
                   <Title title={props.title}/>
-                  <Subtitle className={`${props.isDone?"block":"hidden"}`} subtitle={props.subtitle}/>
+                  <Subtitle className={`${props.isDone?"block":"hidden"} ${props.isDark?"text-white":"text-gray-500"}`} subtitle={props.subtitle}/>
               </div>
-              <p className="text-navbtn-400 flex items-center whitespace-nowrap">See More <BiChevronRight/></p>
+              <p className="text-navbtn-400 flex items-center  whitespace-nowrap cursor-pointer">See More <BiChevronRight/></p>
           </div>
-          <CarouselSlider contents={props.content} isDark={props.isDark} />
+          <CarouselSlider settings={props.settings} contents={props.content} isDark={props.isDark} />
       </section>
       </>
   )

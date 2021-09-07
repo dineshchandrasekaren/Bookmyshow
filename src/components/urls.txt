@@ -1,0 +1,6 @@
+
+url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+
+title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+
+subtitle:"English/hindi -> ₹ 500"

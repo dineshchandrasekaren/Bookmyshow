@@ -63,3 +63,186 @@ export const EntertainmentCardImage = [
     "https://in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MTUrIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300/theatre-shows-collection-202012041128.png",
     "https://in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MTArIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300/dance-collection-01102020340.png",
 ];
+
+export  const CrewContents=[
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+    {
+        src:"https://image.tmdb.org/t/p/original//4SYTH5FdB0dAORV98Nwg3llgVnY.jpg",
+        cast:"Ryan Reynolds",
+        role:"Guy"
+    },
+
+]
+ export  const PlayContents=[
+
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+     {
+         url : "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top/et00314062-lbnygdkfsb-portrait.jpg",
+         title: "Digital Theatre Festival Pass (Access To 3 Plays)",
+         subtitle:"English/hindi -> ₹ 500"
+     },
+
+ ]
