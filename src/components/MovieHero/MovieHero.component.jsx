@@ -12,7 +12,7 @@ const MovieHero = () => {
     return (
         <>
             {/*small devices*/}
-            <div className="md:hidden relative" style={{ height: "calc(190vw)" }}>
+            <div className="md:hidden relative" style={{ height: "calc(195vw)" }}>
                 <img className="h-full w-full"
                     src={`https://image.tmdb.org/t/p/original/${movie.poster_path}`}
                     alt="background" />
