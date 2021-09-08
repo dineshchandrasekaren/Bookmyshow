@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Bookmyshow/static/css/main.986e5e86.chunk.css",
+    "main.js": "/Bookmyshow/static/js/main.d22bb80b.chunk.js",
+    "main.js.map": "/Bookmyshow/static/js/main.d22bb80b.chunk.js.map",
+    "runtime-main.js": "/Bookmyshow/static/js/runtime-main.e7614431.js",
+    "runtime-main.js.map": "/Bookmyshow/static/js/runtime-main.e7614431.js.map",
+    "static/css/2.d7205834.chunk.css": "/Bookmyshow/static/css/2.d7205834.chunk.css",
+    "static/js/2.701eea5e.chunk.js": "/Bookmyshow/static/js/2.701eea5e.chunk.js",
+    "static/js/2.701eea5e.chunk.js.map": "/Bookmyshow/static/js/2.701eea5e.chunk.js.map",
+    "index.html": "/Bookmyshow/index.html",
+    "static/css/2.d7205834.chunk.css.map": "/Bookmyshow/static/css/2.d7205834.chunk.css.map",
+    "static/css/main.986e5e86.chunk.css.map": "/Bookmyshow/static/css/main.986e5e86.chunk.css.map",
+    "static/js/2.701eea5e.chunk.js.LICENSE.txt": "/Bookmyshow/static/js/2.701eea5e.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Bookmyshow/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7614431.js",
+    "static/css/2.d7205834.chunk.css",
+    "static/js/2.701eea5e.chunk.js",
+    "static/css/main.986e5e86.chunk.css",
+    "static/js/main.d22bb80b.chunk.js"
+  ]
+}
