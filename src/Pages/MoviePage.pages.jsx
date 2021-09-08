@@ -71,7 +71,7 @@ const MoviePage = () => {
             </div>
             <Title title="Cast & crew"/>
             <Slider  className="flex" {...settings}>
-                {casts.map((cast)=>(
+                {casts.map(cast=>(
                     <Crew src={cast.profile_path} cast={cast.original_name} role={cast.character} />
                 ))}
             </Slider>

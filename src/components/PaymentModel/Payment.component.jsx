@@ -1,5 +1,5 @@
 import { Dialog, Transition } from '@headlessui/react'
-import { Fragment, useState } from 'react'
+import { Fragment} from 'react'
 
 export default function PaymentComponent({isOpen, setIsOpen,price}) {
 
@@ -27,9 +27,6 @@ export default function PaymentComponent({isOpen, setIsOpen,price}) {
         razorPay.open();
     };
 
-    function openModal() {
-        setIsOpen(true)
-    }
 
     return (
         <>

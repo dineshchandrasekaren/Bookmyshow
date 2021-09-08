@@ -1,7 +1,6 @@
 import axios from "axios";
 import React, { useState, useEffect } from "react";
 import Slider from "react-slick";
-import {Link} from "react-router-dom";
 import { settingsLG, settings } from "../../config/HeroCarouselSetting.config";
 
 

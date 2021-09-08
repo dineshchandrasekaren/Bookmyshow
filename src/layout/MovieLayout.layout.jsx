@@ -12,7 +12,6 @@ const MovieLayout = (props) => {
         const requestMovie = async  () => {
           const getMovie=await  axios.get(`/movie/${id}`);
           setMovie(getMovie.data);
-          console.log(getMovie.data);
         }
         requestMovie();
     },[id]);
