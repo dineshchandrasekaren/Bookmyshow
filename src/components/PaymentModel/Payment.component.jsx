@@ -12,7 +12,7 @@ export default function PaymentComponent({isOpen, setIsOpen,price}) {
             key: "rzp_test_zBuguBWBAqHoK6",
             amount: price * 100,
             currency: "INR",
-            name: "Book My Show Clone",
+            name: "Book My Show ",
             description: "Movie Purchase or Rental",
             image:
                 "https://i.ibb.co/zPBYW3H/imgbin-bookmyshow-office-android-ticket-png.png",
