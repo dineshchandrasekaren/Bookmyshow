@@ -20,7 +20,7 @@ export default function PaymentComponent({isOpen, setIsOpen,price}) {
                 setIsOpen(false);
                 alert("Payment Done");
             },
-            theme: { color: "#FF4848" },
+            theme: { color: "#fF4848" },
         };
 
         let razorPay = new window.Razorpay(options);
